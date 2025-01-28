@@ -1,8 +1,0 @@
-{
-    "name": "Market",
-    "description": "Plugin pour gérer un marché",
-    "author": "RM09",
-    "version": "1.0.0",
-    "azuriom_version": "1.0.0",
-    "type": "plugin"
-}
